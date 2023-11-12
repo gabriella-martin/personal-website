@@ -4,8 +4,10 @@
 ## Hey, I'm Gabriella!
 
 <div class="image-with-text">
-  <img src="graduation.JPG" alt="Graduation" width="150" height="30">
-  <p style="margin-left: 4rem;">Anemone theme is designed to provide a nearly no-JavaScript, efficient, and minimalist experience for your website. Embracing simplicity, the theme focuses on content and readability, ensuring a seamless user experience without unnecessary distractions.</p>
+
+  <img src="graduation.JPG" alt="Graduation" width="150" height="20" style="border-radius: 50%;">
+  <p style="margin-left: 4rem;">Hey there! I'm a backend software developer who's also an LSE Economics grad. Right now, I'm working at a fintech company. 👩🏽‍💻✨  <br>   <br> 
+  I enjoy coding automation projects and documenting the process. </p>
 </div>
 
 <style>
